@@ -8,5 +8,7 @@ public class TrafficLightTest {
         light.change();
         light.change();
         light.change();
+        light.change();
+        light.change();
     }
 }
